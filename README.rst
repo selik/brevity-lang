@@ -37,3 +37,6 @@ For practicality, Brevity has integrations with other programming
 languages enabled through standard library modules.
 
 *Note that these statements are wishful thinking, not reality.*
+
+
+Copyright (c) 2017 Michael Selik.
