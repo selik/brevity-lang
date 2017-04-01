@@ -35,3 +35,5 @@ resources.
 
 For practicality, Brevity has integrations with other programming
 languages enabled through standard library modules.
+
+*Note that these statements are wishful thinking, not reality.*
